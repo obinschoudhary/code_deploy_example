@@ -22,6 +22,6 @@ sed -i "s/sleep(.*)/sleep(10)/" install
 
 ./install auto
 
-4.) Verify it is running.
+4.) Verify it is running..
 
 service codedeploy-agent status 
